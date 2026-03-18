@@ -31,10 +31,13 @@ Meu objetivo é evoluir para um nível profissional como desenvolvedor, dominand
 
 ## 📌 Projetos em destaque
 
-- 🤖 Assistente de IA para barbearia  
+- 🤖 Assistente de IA para barbearia
+   → API com Python para atendimento automatizado  
+  → Integração com IA para respostas dinâmicas  
+  → Estrutura organizada em rotas e serviços
 - 🌐 Portfólio web  
 - 🧪 Projetos práticos com HTML e CSS  
-- 🚧 Nova IA em desenvolvimento  
+- 🚧 Nova IA em desenvolvimento para criação de projetos (Task-Oriented AI Agent)
 
 ---
 
