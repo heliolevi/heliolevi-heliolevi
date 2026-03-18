@@ -5,9 +5,9 @@
 
 # 👋 Olá, eu sou o Hélio
 
-💻 Desenvolvedor focado em Fullstack
-🚀 Construindo APIs REST com Python e criando IA´s
-📚 Estudando SQL e integração com banco de dados  
+💻 Desenvolvedor focado em Backend <br>
+🚀 Construindo APIs REST com Python <br>
+📚 Estudando SQL e integração com banco de dados
 
 ---
 
