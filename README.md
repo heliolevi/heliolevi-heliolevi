@@ -6,7 +6,7 @@
 # 👋 Olá, eu sou o Hélio
 
 💻 Desenvolvedor focado em Backend <br>
-🚀 Construindo APIs REST com Python <br>
+🚀 Construindo APIs REST com Python e JavaScript <br>
 📚 Estudando SQL e integração com banco de dados
 
 ---
